@@ -15,11 +15,6 @@ This repository contains the source code for my personal website. The site is bu
 - **CSS**: For styling and layout
 - **JavaScript**: For interactivity (optional)
 
-The website includes:
-- **About Me**: A brief introduction and personal bio
-- **Portfolio**: A showcase of my work, skills, and projects
-- **Contact Information**: A way for visitors to reach out to me
-
 ## Project Setup
 
 If you would like to clone this repository and view it locally, follow these steps:
